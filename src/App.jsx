@@ -42,7 +42,10 @@ const theme = {
       colorPrimaryActive: '##935302',
       colorPrimaryFocus: '##935302',
       colorPrimaryHover: '#f9b967',
-    }  
+    },
+    Badge:{
+      lineHeight: '2',
+    }
   },
 };
 
